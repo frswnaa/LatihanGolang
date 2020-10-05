@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello world")
+	fmt.Println("menampilkan kalimat Hello world")
+	fmt.Println("membuat branch baru")
+	fmt.Println("melakukan merge")
 }
